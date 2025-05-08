@@ -1,7 +1,7 @@
 name: glass_ui_kit
-description: "A new Flutter package project."
+description: "A flutter widget for blurry shapes"
 version: 0.0.1
-homepage:
+homepage: https://github.com/PHarshilLadila/Glass-UI-Kit.git
 
 environment:
   sdk: ^3.7.2
