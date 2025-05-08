@@ -1,40 +1,25 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# Glass UI Kit 🌫️
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/tools/pub/writing-package-pages).
+A beautifully crafted Flutter plugin for building **Glassmorphism**-styled UI components with ease. Includes customizable glass containers, clipping shapes (wave, blob, star, etc.), and modern blur effects.
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/to/develop-packages).
--->
+![Glass UI Example](https://your-image-link-here.com)
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+---
 
-## Features
+## ✨ Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+- ✅ Beautiful glass containers with customizable blur, color, border
+- ✅ Clip with custom shapes: wave, star, hexagon, triangle, diagonal, blobs, and more
+- ✅ Easy integration with just one widget
+- ✅ Perfect for modern UI and mobile apps with frosted glass aesthetics
 
-## Getting started
+---
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
 
-## Usage
+## Get Started 🚀
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
+To use this package, add glass_ui_kit as a dependency in your `pubspec.yaml` file.:
 
-```dart
-const like = 'sample';
-```
-
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
-# Glass-UI-Kit
+```yaml
+dependencies:
+  glass_ui_kit: ^1.0.0
