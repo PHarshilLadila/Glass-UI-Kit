@@ -15,9 +15,10 @@ A beautifully crafted Flutter plugin for building **Glassmorphism**-styled UI co
 
 ---
 
-## 🚀 Installation
 
-Add the dependency to your `pubspec.yaml`:
+## Get Started 🚀
+
+To use this package, add glass_ui_kit as a dependency in your `pubspec.yaml` file.:
 
 ```yaml
 dependencies:
