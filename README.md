@@ -2,7 +2,7 @@
 
 A beautifully crafted Flutter plugin for building **Glassmorphism**-styled UI components with ease. Includes customizable glass containers, clipping shapes (wave, blob, star, etc.), and modern blur effects.
 
-![Glass UI Example]([https://your-image-link-here.com](https://github.com/PHarshilLadila/Glass-UI-Kit/blob/main/example/assets/images/logologo.png))
+![Glass UI Example]([https://github.com/PHarshilLadila/Glass-UI-Kit/blob/main/example/assets/images/logologo.png])
 
 ---
 
