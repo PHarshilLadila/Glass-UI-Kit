@@ -21,4 +21,4 @@ To use this package, add `glass_ui_kit` as a dependency in your `pubspec.yaml` f
 
 ```yaml
 dependencies:
-  glass_ui_kit: ^1.0.0
+  glass_ui_kit: ^0.0.1
